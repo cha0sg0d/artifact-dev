@@ -1,6 +1,7 @@
-node_modules
-.idea
+cache/
 
-#Hardhat files
-cache
-artifacts
+node_modules/
+
+artifacts/
+
+typechain/
